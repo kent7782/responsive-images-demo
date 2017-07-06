@@ -1,0 +1,17 @@
+body {
+  margin: 2em;
+}
+
+article {
+	margin: 0 auto;
+	max-width: 50em;
+}
+
+h1 {
+	margin: 0 auto 1em auto;
+	width: 800px;
+}
+
+img {
+	max-width: 100%;
+}
